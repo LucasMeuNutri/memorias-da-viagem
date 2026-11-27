@@ -1,8 +1,15 @@
 # Memórias da Viagem | Travel Memories
 
-![Memórias da Viagem — Cover](cover.png)
+<p align="center">
+  <img src="cover.png" width="500" alt="Memórias da Viagem">
+</p>
 
-[![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://lucasxmelo.itch.io/memorias-da-viagem)
+<p align="center">
+  <a href="https://lucasxmelo.itch.io/memorias-da-viagem">
+    <img src="https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
+  </a>
+</p>
+
 
 A narrative memory game that combines mystery, storytelling, and competitive gameplay against an AI opponent.
 
