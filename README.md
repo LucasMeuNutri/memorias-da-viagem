@@ -1,34 +1,105 @@
-# Memórias da Viagem — Phaser / TypeScript
+# Memórias da Viagem | Travel Memories
 
-Versão 1.0.0 | Port da versão Godot 3.1.
+![Memórias da Viagem — Cover](cover.png)
 
-## Executar no Windows
+[![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://lucasxmelo.itch.io/memorias-da-viagem)
 
-1. Instale [Node.js LTS](https://nodejs.org/en/download) e [Visual Studio Code](https://code.visualstudio.com/download). Node 22 ou superior recomendado.
-2. Extraia o ZIP inteiro. Abra a pasta `Memorias_da_Viagem_Phaser_v1` no VS Code (Arquivo > Abrir Pasta).
-3. Abra Terminal > Novo Terminal. Use o perfil **Command Prompt / Prompt de Comando** (menu ao lado do botão +), ou use `npm.cmd` caso o PowerShell bloqueie scripts.
-4. Rode `npm install` uma vez, com internet. Aguarde o término.
-5. Rode `npm run dev` e abra a URL que o terminal exibir (normalmente http://127.0.0.1:5173). Não abra index.html por duplo clique. Mantenha o terminal aberto; Ctrl+C para parar.
+A narrative memory game that combines mystery, storytelling, and competitive gameplay against an AI opponent.
 
-Alternativa: execute `JOGAR.bat` na pasta extraída. Ele instala as dependências caso necessário e inicia o servidor. Abra o endereço exibido.
+Developed with **Phaser and TypeScript** for desktop and mobile web browsers.
 
-## Build web e itch.io
+## About the Game
 
-`npm run build` verifica os tipos e prepara `dist/`. `npm run preview` serve essa pasta localmente. Para o itch.io, compacte **o conteúdo** de `dist/`, com `index.html` na raiz do ZIP, escolha projeto HTML e marque que o arquivo roda no navegador. O Vite usa caminhos relativos para hospedar em subpastas.
+Players experience an illustrated story and compete against a computer-controlled opponent by answering questions about narrative details.
 
-## Estrutura
+Randomized story variations create different experiences across playthroughs, encouraging attention, memory, and replayability.
 
-- `src/main.ts`: cena Phaser, carregamento de texturas e áudio, fundo e ilustrações no canvas, animação de entrada, coordenação da interface e persistência.
-- `src/rules.ts`: regras puras em TypeScript, sorteio de perguntas, avaliador e memória probabilística da máquina. Sem serviço externo de IA.
-- `src/dados.json`: conteúdo original intacto (30 cartas, 6 capítulos, 3 versões por carta).
-- `src/style.css`: interface responsiva HTML/CSS, com entrada nativa para respostas e teclado móvel.
-- `public/assets/`: ilustrações e efeitos sonoros originais.
-- `tests/rules.test.ts`: testes automatizados, execute `npm test` com Node 22+.
+## Key Features
 
-## Port e diferenças
+- 30 illustrated narrative cards
+- 6 story chapters
+- 90 narrative variations
+- Five questions per match
+- Tie-breaking system
+- Adaptive AI opponent
+- Automated text answer evaluation
+- Score tracking and answer review
+- Local progress persistence
+- Responsive desktop and mobile interface
 
-Fluxo preservado: leitura das 30 cartas, sorteio de variantes, cinco perguntas de capítulos distintos e dificuldades 1/2/2/3/2, desempate apenas quando necessário, correção de texto, placar, revisão, dificuldade adaptativa, retomada local, navegação por toque e setas. Interface reconstruída em layout híbrido Phaser/HTML para manter o teclado nativo e a rolagem. Efeitos visuais foram recriados em versão simplificada; ainda não há paridade visual exata com a Godot. Preferências e partida usam localStorage, não importam saves Godot. Dependências precisam ser instaladas no computador do usuário; não incluímos node_modules ou build pré-compilado.
+## Game Design
 
-## Validação
+The project explores the combination of narrative engagement and competitive memory-based mechanics.
 
-Testes das regras executados com Node 22.16.0: 5/5 passaram. Inclui 1.000 sorteios e validação dos gabaritos de todas as 90 variantes. A instalação de dependências e a execução gráfica não puderam ser feitas no ambiente de conversão (sem acesso ao registro npm); o primeiro `npm install`, `npm run build` e teste no navegador são necessários para validar a integração Phaser/Vite. Não é uma publicação pronta nem uma garantia de compatibilidade em todos os celulares.
+**Core design pillars:**
+
+- Narrative immersion
+- Memory and attention
+- Replayability through procedural variation
+- Accessible gameplay
+- Competitive challenge
+- Minimalist visual storytelling
+
+## Technologies
+
+| Technology | Purpose |
+|---|---|
+| Phaser | 2D game development |
+| TypeScript | Game logic and systems |
+| HTML5 | Browser-based interface |
+| CSS | Responsive UI |
+| Vite | Development and production builds |
+| Node.js | Development environment |
+| JSON | Narrative content management |
+| GitHub | Version control |
+
+## Project Architecture
+
+- `src/main.ts` — Game scene, rendering, animations, audio and interface coordination.
+- `src/rules.ts` — Core game rules, question selection, AI behavior and answer evaluation.
+- `src/dados.json` — Narrative content and questions.
+- `src/style.css` — Responsive user interface.
+- `public/assets/` — Illustrations and sound effects.
+- `tests/` — Automated game logic tests.
+
+## Development Process
+
+Originally developed in Godot using GDScript, the game was migrated to Phaser and TypeScript as part of a multi-engine game development portfolio.
+
+The project was developed through an AI-assisted workflow, focusing on:
+
+- Game design and mechanics
+- Narrative design
+- Rapid prototyping
+- Iterative development
+- UI/UX design
+- Art direction
+- Playtesting
+- Cross-platform adaptation
+- Game logic validation
+
+## Running Locally
+
+Requirements: Node.js 22 or newer.
+
+1. Clone or download this repository.
+2. Open the project folder in a code editor.
+3. Run `npm install`.
+4. Run `npm run dev`.
+5. Open the local address displayed in the terminal.
+
+Run `npm run build` to generate the production build.
+
+Run `npm test` to execute the automated game logic tests.
+
+## Project Status
+
+- Version: 1.0.0
+- Genre: Narrative / Memory / Quiz
+- Platform: Web — Desktop and Mobile
+- Game language: Brazilian Portuguese
+- Status: Released
+
+---
+
+Independent game development project created as part of a professional Game Design portfolio.
