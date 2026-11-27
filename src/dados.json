@@ -1,0 +1,2897 @@
+{
+  "nome": "Memórias da Viagem",
+  "fatos": [
+    {
+      "id": 1,
+      "parte": 1,
+      "nome_parte": "Chegada à Estalagem",
+      "titulo": "Apresentar o guia",
+      "pergunta": "O que chamou a atenção do Prudente ao conhecer o guia?",
+      "versoes": {
+        "A": {
+          "texto": "Prudente notou que o guia usava uma pulseira tribal",
+          "resposta": "Uma pulseira tribal",
+          "criterios": [
+            [
+              "pulseira",
+              "bracelete",
+              "adorno de pulso"
+            ]
+          ],
+          "complementares": [
+            "tribal",
+            "indigena"
+          ],
+          "contradicoes": [
+            "de ouro",
+            "de prata",
+            "metalica",
+            "lisa",
+            "sem desenhos",
+            "nao tribal",
+            "nao era tribal",
+            "nao tinha desenhos",
+            "plastico",
+            "borracha",
+            "couro liso",
+            "de tecido liso",
+            "moderna",
+            "comum sem desenho"
+          ],
+          "ilustracao": 1
+        },
+        "B": {
+          "texto": "Prudente perguntou sobre a antiga tribo e percebeu o guia desconfortável.",
+          "resposta": "O desconforto do guia ao ouvir sobre a antiga tribo",
+          "criterios": [
+            [
+              "desconforto",
+              "desconfortavel",
+              "incomodado",
+              "incomodo",
+              "nervoso",
+              "constrangido",
+              "tenso",
+              "sem jeito",
+              "perturbado",
+              "ficou sem graca"
+            ]
+          ],
+          "complementares": [
+            "tribo",
+            "antiga tribo"
+          ],
+          "contradicoes": [
+            "feliz",
+            "tranquilo",
+            "a vontade",
+            "sem desconforto",
+            "sem incomodo",
+            "nao estava desconfortavel"
+          ],
+          "ilustracao": 1
+        },
+        "C": {
+          "texto": "Prudente viu que as botas do guia estavam cobertas de barro fresco.",
+          "resposta": "As botas cobertas de barro fresco",
+          "criterios": [
+            [
+              "bota",
+              "botas",
+              "calcado",
+              "calcados",
+              "sapato",
+              "sapatos",
+              "botinas"
+            ],
+            [
+              "barro",
+              "lama"
+            ]
+          ],
+          "complementares": [
+            "fresco",
+            "recente"
+          ],
+          "contradicoes": [
+            "limpas",
+            "limpos",
+            "sem barro",
+            "sem lama",
+            "barro seco",
+            "lama seca",
+            "barro velho",
+            "lama velha"
+          ],
+          "ilustracao": 1
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 2,
+      "parte": 1,
+      "nome_parte": "Chegada à Estalagem",
+      "titulo": "Mostrar o mapa",
+      "pergunta": "Qual lugar o guia destacou ao apresentar o mapa?",
+      "versoes": {
+        "A": {
+          "texto": "O guia mostrou a ponte do riacho que atravessariam.",
+          "resposta": "A ponte do riacho",
+          "criterios": [
+            [
+              "ponte",
+              "pontezinha",
+              "passarela"
+            ]
+          ],
+          "complementares": [
+            "riacho"
+          ],
+          "contradicoes": [
+            "ponte quebrada"
+          ],
+          "ilustracao": 2
+        },
+        "B": {
+          "texto": "O guia mostrou uma clareira para descanso.",
+          "resposta": "Uma clareira para descanso",
+          "criterios": [
+            [
+              "clareira",
+              "espaco aberto",
+              "abertura na mata"
+            ]
+          ],
+          "complementares": [
+            "descanso",
+            "parada"
+          ],
+          "contradicoes": [
+            "sem clareira"
+          ],
+          "ilustracao": 2
+        },
+        "C": {
+          "texto": "O guia mostrou uma árvore centenária.",
+          "resposta": "Uma árvore centenária",
+          "criterios": [
+            [
+              "arvore",
+              "arvore antiga",
+              "arvore velha"
+            ]
+          ],
+          "complementares": [
+            "centenaria",
+            "antiga",
+            "velha",
+            "cem anos",
+            "100 anos",
+            "secular"
+          ],
+          "contradicoes": [
+            "jovem",
+            "recem plantada",
+            "arvore nova",
+            "muda",
+            "arvore jovem"
+          ],
+          "ilustracao": 2
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 3,
+      "parte": 1,
+      "nome_parte": "Chegada à Estalagem",
+      "titulo": "Suspeita com as malas",
+      "pergunta": "O que a recepcionista fez com as mochilas?",
+      "versoes": {
+        "A": {
+          "texto": "Clara viu a recepcionista afastando as bagagens para liberar a passagem.",
+          "resposta": "Afastou as bagagens para liberar a passagem",
+          "criterios": [
+            [
+              "afastou",
+              "afastar",
+              "afastando",
+              "removeu",
+              "retirou",
+              "tirou",
+              "moveu",
+              "arredou",
+              "deslocou",
+              "liberou",
+              "desobstruiu",
+              "mudou de lugar",
+              "abriu espaco",
+              "desimpediu"
+            ]
+          ],
+          "complementares": [
+            "passagem",
+            "mochilas",
+            "bagagens"
+          ],
+          "contradicoes": [
+            "bloqueou a passagem",
+            "obstruiu a passagem",
+            "deixou no caminho"
+          ],
+          "ilustracao": 3
+        },
+        "B": {
+          "texto": "Serena notou a recepcionista limpando as mochilas para não sujarem o sofá.",
+          "resposta": "Limpou as mochilas",
+          "criterios": [
+            [
+              "limpou",
+              "limpar",
+              "limpando",
+              "lavou",
+              "higienizou",
+              "limpeza",
+              "passou um pano",
+              "tirou a sujeira"
+            ]
+          ],
+          "complementares": [
+            "mochilas",
+            "sofa"
+          ],
+          "contradicoes": [
+            "sujou",
+            "espalhou sujeira"
+          ],
+          "ilustracao": 3
+        },
+        "C": {
+          "texto": "Hilário viu a recepcionista organizando as malas e deu um susto na moça.",
+          "resposta": "Organizou as malas",
+          "criterios": [
+            [
+              "organizou",
+              "organizar",
+              "organizando",
+              "arrumou",
+              "arrumar",
+              "arrumando",
+              "ordenou",
+              "colocou em ordem",
+              "pôs em ordem"
+            ]
+          ],
+          "complementares": [
+            "malas",
+            "bagagens"
+          ],
+          "contradicoes": [
+            "baguncou",
+            "desorganizou"
+          ],
+          "ilustracao": 3
+        }
+      },
+      "dificuldade": 1
+    },
+    {
+      "id": 4,
+      "parte": 1,
+      "nome_parte": "Chegada à Estalagem",
+      "titulo": "Relação entre guia e recepcionista",
+      "pergunta": "Qual gesto de familiaridade entre o guia e a recepcionista chamou a atenção?",
+      "versoes": {
+        "A": {
+          "texto": "Serena viu o guia e a recepcionista comentando sobre uma foto no celular",
+          "resposta": "Comentaram uma foto no celular",
+          "criterios": [
+            [
+              "foto",
+              "fotografia",
+              "imagem"
+            ],
+            [
+              "comentaram",
+              "comentando",
+              "comentou",
+              "mostrou",
+              "olharam",
+              "viram",
+              "conversaram sobre",
+              "viam",
+              "comentario",
+              "comentario sobre",
+              "comentando sobre",
+              "comentaram uma foto",
+              "comentaram sobre",
+              "no celular",
+              "no telefone",
+              "viu",
+              "olhou",
+              "mostrava",
+              "conversavam sobre"
+            ]
+          ],
+          "complementares": [
+            "celular",
+            "telefone"
+          ],
+          "contradicoes": [
+            "tiraram uma foto",
+            "fotografaram",
+            "foto impressa",
+            "foto de papel"
+          ],
+          "ilustracao": 4
+        },
+        "B": {
+          "texto": "Clara viu a recepcionista ajeitando a blusa e o crachá do guia.",
+          "resposta": "Ela ajeitou a blusa e o crachá do guia",
+          "criterios": [
+            [
+              "ajeitou",
+              "ajeitar",
+              "ajeitando",
+              "arrumou",
+              "ajustou",
+              "endireitou",
+              "acertou",
+              "compôs"
+            ],
+            [
+              "blusa",
+              "camisa",
+              "roupa",
+              "cracha"
+            ]
+          ],
+          "complementares": [
+            "blusa",
+            "cracha",
+            "guia"
+          ],
+          "contradicoes": [
+            "rasgou",
+            "retirou o cracha"
+          ],
+          "ilustracao": 4
+        },
+        "C": {
+          "texto": "Prudente ouviu a recepcionista perguntando se o guia preferia café descafeinado ou normal.",
+          "resposta": "Ela perguntou se o guia preferia café descafeinado ou normal",
+          "criterios": [
+            [
+              "perguntou",
+              "perguntando",
+              "quis saber",
+              "preferia",
+              "preferencia",
+              "escolha",
+              "queria saber",
+              "gostava",
+              "tomava"
+            ],
+            [
+              "cafe",
+              "descafeinado",
+              "cafeina"
+            ]
+          ],
+          "complementares": [
+            "normal",
+            "descafeinado"
+          ],
+          "contradicoes": [
+            "tomaram cafe",
+            "beberam cafe",
+            "serviu cafe sem perguntar"
+          ],
+          "ilustracao": 4
+        }
+      },
+      "dificuldade": 3
+    },
+    {
+      "id": 5,
+      "parte": 1,
+      "nome_parte": "Chegada à Estalagem",
+      "titulo": "Regras da visita",
+      "pergunta": "Qual orientação o guia enfatizou antes da caminhada?",
+      "versoes": {
+        "A": {
+          "texto": "O guia proibiu sair da trilha. Hilário questionou: \"Nem pra mijar?\"",
+          "resposta": "Não sair da trilha",
+          "criterios": [
+            [
+              "nao sair",
+              "nao sairem",
+              "nao saisse",
+              "proibiu sair",
+              "proibido sair",
+              "proibicao de sair",
+              "ficar na",
+              "permanecer na",
+              "seguir",
+              "manter se na",
+              "continuar na",
+              "nao abandonar",
+              "nao deixar",
+              "evitar sair",
+              "nao desviar",
+              "ficar no",
+              "permanecer no"
+            ],
+            [
+              "trilha",
+              "caminho",
+              "rota"
+            ]
+          ],
+          "complementares": [
+            "guia"
+          ],
+          "contradicoes": [
+            "nao ficar",
+            "nao permanecer",
+            "nao seguir",
+            "podia sair",
+            "permitido sair",
+            "pode sair"
+          ],
+          "negacao_esperada": true,
+          "ilustracao": 5
+        },
+        "B": {
+          "texto": "O guia proibiu retirar objetos da mata. Hilário perguntou: \"Mesmo se eu vir uma fruta?\"",
+          "resposta": "Não retirar objetos da mata",
+          "criterios": [
+            [
+              "nao retirar",
+              "nao tirar",
+              "nao pegar",
+              "nao recolher",
+              "nao levar",
+              "proibiu retirar",
+              "proibido retirar",
+              "proibiu pegar",
+              "proibido pegar",
+              "proibiu tirar",
+              "proibido tirar",
+              "deixar",
+              "evitar retirar",
+              "nao remover",
+              "nao coletar",
+              "nao apanhar",
+              "nao trazer",
+              "nao extrair"
+            ],
+            [
+              "objeto",
+              "objetos",
+              "coisa",
+              "coisas",
+              "mata",
+              "floresta",
+              "natureza",
+              "nada"
+            ]
+          ],
+          "complementares": [
+            "mata"
+          ],
+          "contradicoes": [
+            "podia retirar",
+            "pode retirar",
+            "permitido retirar",
+            "podia pegar",
+            "pode pegar",
+            "permitido pegar",
+            "nao deixar"
+          ],
+          "negacao_esperada": true,
+          "ilustracao": 5
+        },
+        "C": {
+          "texto": "O guia proibiu afastar-se do grupo. Hilário perguntou: \"E pra fumar?\"",
+          "resposta": "Não se afastar do grupo",
+          "criterios": [
+            [
+              "nao se afastar",
+              "nao afastar",
+              "nao se separar",
+              "nao separar",
+              "nao abandonar",
+              "nao deixar",
+              "proibiu afastar",
+              "proibiu se afastar",
+              "proibido se afastar",
+              "ficar com",
+              "permanecer com",
+              "manter se com",
+              "andar junto",
+              "continuar juntos",
+              "evitar se afastar",
+              "ficar juntos",
+              "ficar junto",
+              "nao se distanciar",
+              "andar com",
+              "ficar perto do"
+            ],
+            [
+              "grupo",
+              "juntos",
+              "todos",
+              "junto"
+            ]
+          ],
+          "complementares": [
+            "guia"
+          ],
+          "contradicoes": [
+            "nao ficar",
+            "nao permanecer",
+            "podia se afastar",
+            "pode se afastar",
+            "permitido se afastar",
+            "nao andar junto"
+          ],
+          "negacao_esperada": true,
+          "ilustracao": 5
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 6,
+      "parte": 2,
+      "nome_parte": "Noite na Estalagem",
+      "titulo": "Movimento à noite",
+      "pergunta": "Quem foi visto saindo do quarto durante a madrugada?",
+      "versoes": {
+        "A": {
+          "texto": "Prudente viu Clara saindo do quarto com uma lanterna.",
+          "resposta": "Clara",
+          "criterios": [
+            [
+              "clara",
+              "a clara"
+            ]
+          ],
+          "complementares": [
+            "lanterna"
+          ],
+          "contradicoes": [
+            "nao foi clara"
+          ],
+          "ilustracao": 6
+        },
+        "B": {
+          "texto": "Serena viu Hilário saindo do quarto com um travesseiro.",
+          "resposta": "Hilário",
+          "criterios": [
+            [
+              "hilario",
+              "o hilario"
+            ]
+          ],
+          "complementares": [
+            "travesseiro"
+          ],
+          "contradicoes": [
+            "nao foi hilario"
+          ],
+          "ilustracao": 6
+        },
+        "C": {
+          "texto": "Clara viu Prudente saindo do quarto, olhando discretamente para os lados.",
+          "resposta": "Prudente",
+          "criterios": [
+            [
+              "prudente",
+              "o prudente"
+            ]
+          ],
+          "complementares": [
+            "discretamente"
+          ],
+          "contradicoes": [
+            "nao foi prudente"
+          ],
+          "ilustracao": 6
+        }
+      },
+      "dificuldade": 1
+    },
+    {
+      "id": 7,
+      "parte": 2,
+      "nome_parte": "Noite na Estalagem",
+      "titulo": "O guia retorna",
+      "pergunta": "Por que o guia voltou à recepção durante a noite?",
+      "versoes": {
+        "A": {
+          "texto": "O guia voltou para buscar uma lanterna que havia esquecido.",
+          "resposta": "Buscar uma lanterna esquecida",
+          "criterios": [
+            [
+              "lanterna",
+              "lanterninha"
+            ]
+          ],
+          "complementares": [
+            "buscar",
+            "esquecida"
+          ],
+          "contradicoes": [
+            "devolver a lanterna",
+            "deixar a lanterna",
+            "lanterna quebrada",
+            "lanterna nova"
+          ],
+          "ilustracao": 7
+        },
+        "B": {
+          "texto": "O guia voltou porque precisava carregar a bateria do rádio.",
+          "resposta": "Carregar a bateria do rádio",
+          "criterios": [
+            [
+              "radio"
+            ],
+            [
+              "bateria",
+              "carregar",
+              "recarregar",
+              "carga",
+              "por para carregar",
+              "repor a carga"
+            ]
+          ],
+          "complementares": [
+            "recepcao"
+          ],
+          "contradicoes": [
+            "descarregar",
+            "desligar o radio"
+          ],
+          "ilustracao": 7
+        },
+        "C": {
+          "texto": "O guia retornou dizendo que precisava pegar um casaco antes de sair novamente.",
+          "resposta": "Pegar um casaco",
+          "criterios": [
+            [
+              "casaco",
+              "agasalho",
+              "jaqueta",
+              "blusao",
+              "sobretudo",
+              "roupa de frio"
+            ]
+          ],
+          "complementares": [
+            "buscar",
+            "pegar"
+          ],
+          "contradicoes": [
+            "devolver o casaco",
+            "deixar o casaco"
+          ],
+          "ilustracao": 7
+        }
+      },
+      "dificuldade": 1
+    },
+    {
+      "id": 8,
+      "parte": 2,
+      "nome_parte": "Noite na Estalagem",
+      "titulo": "Conversa escondida",
+      "pergunta": "Qual assunto o guia e a recepcionista conversavam discretamente?",
+      "versoes": {
+        "A": {
+          "texto": "Serena ouviu os dois cochichando sobre uma visita inesperada.",
+          "resposta": "Uma visita inesperada",
+          "criterios": [
+            [
+              "visita",
+              "visitante",
+              "chegada de alguem"
+            ],
+            [
+              "inesperada",
+              "surpresa",
+              "imprevista",
+              "nao esperada",
+              "nao prevista"
+            ]
+          ],
+          "complementares": [
+            "cochicho"
+          ],
+          "contradicoes": [
+            "visita marcada",
+            "visita prevista",
+            "visita esperada"
+          ],
+          "negacao_esperada": true,
+          "ilustracao": 8
+        },
+        "B": {
+          "texto": "Clara escutou o guia comentando sobre um caminho interditado na mata.",
+          "resposta": "Um caminho interditado na mata",
+          "criterios": [
+            [
+              "caminho",
+              "trilha",
+              "rota",
+              "passagem"
+            ],
+            [
+              "interditado",
+              "interditada",
+              "proibido",
+              "proibida",
+              "bloqueado",
+              "bloqueada",
+              "fechado",
+              "fechada",
+              "impedido",
+              "inacessivel",
+              "interdicao"
+            ]
+          ],
+          "complementares": [
+            "mata"
+          ],
+          "contradicoes": [
+            "liberado",
+            "liberada",
+            "permitido",
+            "permitida"
+          ],
+          "ilustracao": 8
+        },
+        "C": {
+          "texto": "Prudente ouviu a recepcionista mencionar uma ligação misteriosa.",
+          "resposta": "Uma ligação misteriosa",
+          "criterios": [
+            [
+              "ligacao",
+              "telefonema",
+              "chamada",
+              "chamada telefonica"
+            ],
+            [
+              "misteriosa",
+              "misterioso",
+              "estranha",
+              "estranho",
+              "suspeita",
+              "suspeito"
+            ]
+          ],
+          "complementares": [
+            "cochicho"
+          ],
+          "contradicoes": [
+            "ligacao normal",
+            "ligacao comum"
+          ],
+          "ilustracao": 8
+        }
+      },
+      "dificuldade": 3
+    },
+    {
+      "id": 9,
+      "parte": 2,
+      "nome_parte": "Noite na Estalagem",
+      "titulo": "Amanhecendo",
+      "pergunta": "O que aconteceu no corredor dos quartos pouco antes do amanhecer?",
+      "versoes": {
+        "A": {
+          "texto": "Uma porta bateu tão forte que acordou os quatro viajantes.",
+          "resposta": "Uma porta bateu com força",
+          "criterios": [
+            [
+              "porta"
+            ],
+            [
+              "bateu",
+              "batendo",
+              "batida",
+              "fechou",
+              "barulho",
+              "estrondo",
+              "se fechou",
+              "fechou bruscamente",
+              "bateu forte"
+            ]
+          ],
+          "complementares": [
+            "forte",
+            "forca"
+          ],
+          "contradicoes": [
+            "devagar",
+            "silenciosamente",
+            "sem barulho"
+          ],
+          "ilustracao": 9
+        },
+        "B": {
+          "texto": "Hilário tropeçou em um balde no corredor e acordou todo mundo.",
+          "resposta": "Hilário tropeçou em um balde",
+          "criterios": [
+            [
+              "tropecou",
+              "tropecar",
+              "tropecando",
+              "caiu",
+              "escorregou",
+              "esbarrou",
+              "se desequilibrou"
+            ],
+            [
+              "balde"
+            ]
+          ],
+          "complementares": [
+            "hilario",
+            "corredor"
+          ],
+          "contradicoes": [
+            "viu um balde",
+            "olhou um balde",
+            "clara tropecou",
+            "serena tropecou",
+            "prudente tropecou",
+            "clara caiu",
+            "clara esbarrou",
+            "clara escorregou",
+            "serena caiu",
+            "serena esbarrou",
+            "serena escorregou",
+            "prudente caiu",
+            "prudente esbarrou",
+            "prudente escorregou"
+          ],
+          "ilustracao": 9
+        },
+        "C": {
+          "texto": "Serena ouviu passos apressados no corredor, mas não encontrou ninguém.",
+          "resposta": "Foram ouvidos passos apressados",
+          "criterios": [
+            [
+              "passos",
+              "passadas",
+              "pisadas"
+            ],
+            [
+              "apressados",
+              "rapidos",
+              "correndo",
+              "pressa",
+              "apressadas",
+              "rapidas",
+              "acelerados",
+              "aceleradas",
+              "em disparada"
+            ]
+          ],
+          "complementares": [
+            "corredor"
+          ],
+          "contradicoes": [
+            "lentos",
+            "devagar",
+            "tranquilos"
+          ],
+          "ilustracao": 9
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 10,
+      "parte": 2,
+      "nome_parte": "Noite na Estalagem",
+      "titulo": "Cadê o mapa?",
+      "pergunta": "Quem percebeu primeiro que o mapa havia desaparecido?",
+      "versoes": {
+        "A": {
+          "texto": "Serena procurou o mapa sobre a mesa e percebeu que havia sumido. O guia tranquilizou o grupo, dizendo conhecer o percurso de memória.",
+          "resposta": "Serena",
+          "criterios": [
+            [
+              "serena",
+              "a serena"
+            ]
+          ],
+          "complementares": [
+            "mesa",
+            "mapa"
+          ],
+          "contradicoes": [
+            "nao foi serena"
+          ],
+          "ilustracao": 10
+        },
+        "B": {
+          "texto": "Hilário foi conferir o percurso e encontrou a mesa sem o mapa. O guia tranquilizou o grupo, dizendo conhecer o percurso de memória.",
+          "resposta": "Hilário",
+          "criterios": [
+            [
+              "hilario",
+              "o hilario"
+            ]
+          ],
+          "complementares": [
+            "mesa",
+            "mapa"
+          ],
+          "contradicoes": [
+            "nao foi hilario"
+          ],
+          "ilustracao": 10
+        },
+        "C": {
+          "texto": "Prudente percebeu que o mapa não estava mais onde o guia havia deixado. O guia tranquilizou o grupo, dizendo conhecer o percurso de memória.",
+          "resposta": "Prudente",
+          "criterios": [
+            [
+              "prudente",
+              "o prudente"
+            ]
+          ],
+          "complementares": [
+            "mesa",
+            "mapa"
+          ],
+          "contradicoes": [
+            "nao foi prudente"
+          ],
+          "ilustracao": 10
+        }
+      },
+      "dificuldade": 1
+    },
+    {
+      "id": 11,
+      "parte": 3,
+      "nome_parte": "Trilha Guiada",
+      "titulo": "Ar estranho",
+      "pergunta": "Qual sinal de fumaça ou cheiro estranho foi percebido durante a trilha?",
+      "versoes": {
+        "A": {
+          "texto": "Hilário sentiu cheiro de madeira queimada vindo de dentro da mata.",
+          "resposta": "Cheiro de madeira queimada",
+          "criterios": [
+            [
+              "madeira",
+              "lenha",
+              "tronco"
+            ],
+            [
+              "queimada",
+              "queimando",
+              "queimado",
+              "queima"
+            ]
+          ],
+          "complementares": [
+            "cheiro"
+          ],
+          "contradicoes": [
+            "madeira molhada",
+            "sem cheiro"
+          ],
+          "ilustracao": 11
+        },
+        "B": {
+          "texto": "Serena notou uma fumaça fina atravessando a trilha.",
+          "resposta": "Fumaça fina atravessando a trilha",
+          "criterios": [
+            [
+              "fumaca",
+              "fumassa",
+              "fumaca leve",
+              "fumaceira"
+            ]
+          ],
+          "complementares": [
+            "fina",
+            "leve",
+            "atravessando",
+            "trilha"
+          ],
+          "contradicoes": [
+            "densa",
+            "grossa",
+            "espessa",
+            "sem fumaca"
+          ],
+          "ilustracao": 11
+        },
+        "C": {
+          "texto": "Prudente percebeu um cheiro adocicado e estranho que ficava cada vez mais forte.",
+          "resposta": "Cheiro adocicado ficando mais forte",
+          "criterios": [
+            [
+              "adocicado",
+              "doce",
+              "adocicada",
+              "adocicou",
+              "acucarado",
+              "acucarada"
+            ]
+          ],
+          "complementares": [
+            "cheiro",
+            "forte"
+          ],
+          "contradicoes": [
+            "amargo",
+            "azedo",
+            "sem cheiro"
+          ],
+          "ilustracao": 11
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 12,
+      "parte": 3,
+      "nome_parte": "Trilha Guiada",
+      "titulo": "Efeitos mentais",
+      "pergunta": "O que aconteceu com uma das pessoas após perceberem o ar estranho?",
+      "versoes": {
+        "A": {
+          "texto": "Clara sentiu uma tontura repentina e precisou sentar no chão.",
+          "resposta": "Clara sentiu tontura e precisou sentar",
+          "criterios": [
+            [
+              "tontura",
+              "tonta",
+              "tonteira",
+              "vertigem",
+              "sentiu se tonta",
+              "perdeu o equilibrio",
+              "ficou zonza",
+              "cabeca girando",
+              "mal estar com tontura",
+              "zonzeira"
+            ]
+          ],
+          "complementares": [
+            "clara",
+            "sentou",
+            "sentar"
+          ],
+          "contradicoes": [
+            "hilario sentiu tontura",
+            "serena sentiu tontura",
+            "sem tontura",
+            "serena sentiu",
+            "serena ficou",
+            "serena teve",
+            "serena precisou sentar",
+            "serena perdeu o equilibrio",
+            "prudente sentiu",
+            "prudente ficou",
+            "prudente teve",
+            "prudente precisou sentar",
+            "prudente perdeu o equilibrio",
+            "hilario sentiu",
+            "hilario ficou",
+            "hilario teve",
+            "hilario precisou sentar",
+            "hilario perdeu o equilibrio"
+          ],
+          "ilustracao": 12
+        },
+        "B": {
+          "texto": "Hilário ouviu alguém chamando seu nome, mas ninguém havia falado.",
+          "resposta": "Hilário ouviu alguém chamar seu nome",
+          "criterios": [
+            [
+              "nome",
+              "chamaram seu nome",
+              "chamando seu nome",
+              "chamaram o hilario",
+              "chamaram o nome dele",
+              "seu nome"
+            ],
+            [
+              "ouviu",
+              "escutou",
+              "chamaram",
+              "chamando",
+              "chamar",
+              "chamado",
+              "escutava",
+              "ouvia"
+            ]
+          ],
+          "complementares": [
+            "hilario",
+            "ninguem"
+          ],
+          "contradicoes": [
+            "clara ouviu",
+            "serena ouviu",
+            "nao ouviu",
+            "clara escutou",
+            "clara ouvia",
+            "clara escutava",
+            "serena escutou",
+            "serena ouvia",
+            "serena escutava",
+            "prudente ouviu",
+            "prudente escutou",
+            "prudente ouvia",
+            "prudente escutava"
+          ],
+          "ilustracao": 12
+        },
+        "C": {
+          "texto": "Serena ficou confusa e não reconheceu o trecho da trilha que acabara de percorrer.",
+          "resposta": "Serena não reconheceu a trilha recém-percorrida",
+          "criterios": [
+            [
+              "nao reconheceu",
+              "nao reconhecia",
+              "nao lembrava",
+              "nao lembrou",
+              "desorientada",
+              "desorientacao",
+              "perdida",
+              "esqueceu",
+              "nao recordava",
+              "confusa",
+              "confusao",
+              "perdeu a orientacao",
+              "nao se lembrava",
+              "nao identificou"
+            ]
+          ],
+          "complementares": [
+            "serena",
+            "trilha"
+          ],
+          "contradicoes": [
+            "reconheceu normalmente",
+            "hilario ficou confuso",
+            "clara ficou confusa",
+            "clara nao reconheceu",
+            "clara nao reconhecia",
+            "clara ficou confuso",
+            "clara se perdeu",
+            "clara esqueceu",
+            "clara ficou desorientado",
+            "clara ficou desorientada",
+            "prudente nao reconheceu",
+            "prudente nao reconhecia",
+            "prudente ficou confuso",
+            "prudente ficou confusa",
+            "prudente se perdeu",
+            "prudente esqueceu",
+            "prudente ficou desorientado",
+            "prudente ficou desorientada",
+            "hilario nao reconheceu",
+            "hilario nao reconhecia",
+            "hilario ficou confusa",
+            "hilario se perdeu",
+            "hilario esqueceu",
+            "hilario ficou desorientado",
+            "hilario ficou desorientada"
+          ],
+          "negacao_esperada": true,
+          "ilustracao": 12
+        }
+      },
+      "dificuldade": 3
+    },
+    {
+      "id": 13,
+      "parte": 3,
+      "nome_parte": "Trilha Guiada",
+      "titulo": "Sinais de uma mulher",
+      "pergunta": "Qual pista sugeriu que poderia haver uma mulher na mata?",
+      "versoes": {
+        "A": {
+          "texto": "Serena disse ter ouvido uma mulher pedindo ajuda entre as árvores.",
+          "resposta": "Um pedido de ajuda feminino",
+          "criterios": [
+            [
+              "ajuda",
+              "socorro",
+              "pedido",
+              "auxilio",
+              "suplicava",
+              "grito de auxilio",
+              "implorava",
+              "clamava",
+              "clamou",
+              "pedindo auxilio"
+            ],
+            [
+              "mulher",
+              "feminino",
+              "feminina",
+              "voz feminina",
+              "voz de mulher",
+              "voz de uma mulher"
+            ]
+          ],
+          "complementares": [
+            "arvores"
+          ],
+          "contradicoes": [
+            "voz masculina",
+            "homem pedindo socorro"
+          ],
+          "ilustracao": 13
+        },
+        "B": {
+          "texto": "Clara afirmou ter visto a silhueta de uma mulher passando entre as árvores.",
+          "resposta": "Uma silhueta feminina",
+          "criterios": [
+            [
+              "silhueta",
+              "sombra",
+              "figura",
+              "vulto",
+              "contorno",
+              "forma",
+              "contornos"
+            ],
+            [
+              "mulher",
+              "feminina",
+              "feminino"
+            ]
+          ],
+          "complementares": [
+            "arvores"
+          ],
+          "contradicoes": [
+            "figura masculina",
+            "silhueta masculina",
+            "vulto de homem"
+          ],
+          "ilustracao": 13
+        },
+        "C": {
+          "texto": "Hilário encontrou uma presilha de cabelo presa a um galho da trilha. O objeto poderia ser uma pista da presença de outra pessoa.",
+          "resposta": "Uma presilha de cabelo",
+          "criterios": [
+            [
+              "presilha",
+              "grampo",
+              "fivela",
+              "prendedor",
+              "tiara",
+              "acessorio de cabelo",
+              "prendedor de cabelo",
+              "tic tac",
+              "clip de cabelo"
+            ]
+          ],
+          "complementares": [
+            "cabelo",
+            "galho"
+          ],
+          "contradicoes": [
+            "presilha de roupa"
+          ],
+          "ilustracao": 13
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 14,
+      "parte": 3,
+      "nome_parte": "Trilha Guiada",
+      "titulo": "Sinais recentes da tribo",
+      "pergunta": "Qual vestígio recente associado à antiga tribo foi encontrado?",
+      "versoes": {
+        "A": {
+          "texto": "Prudente encontrou um símbolo tribal recém-gravado no tronco de uma árvore.",
+          "resposta": "Símbolo tribal recém-gravado numa árvore",
+          "criterios": [
+            [
+              "simbolo",
+              "marca",
+              "desenho",
+              "inscricao",
+              "gravura",
+              "entalhe"
+            ],
+            [
+              "arvore",
+              "tronco"
+            ]
+          ],
+          "complementares": [
+            "tribal",
+            "recem gravado"
+          ],
+          "contradicoes": [
+            "antigo desgastado",
+            "apagado",
+            "sem simbolo"
+          ],
+          "ilustracao": 14
+        },
+        "B": {
+          "texto": "Clara encontrou um amuleto tribal ao lado de pegadas ainda frescas.",
+          "resposta": "Amuleto tribal junto a pegadas frescas",
+          "criterios": [
+            [
+              "amuleto",
+              "talisma",
+              "pingente",
+              "objeto ritual",
+              "amuleto de protecao"
+            ]
+          ],
+          "complementares": [
+            "tribal",
+            "pegadas",
+            "frescas"
+          ],
+          "contradicoes": [
+            "sem amuleto"
+          ],
+          "ilustracao": 14
+        },
+        "C": {
+          "texto": "Serena viu uma fogueira ainda quente cercada por pedras com símbolos tribais.",
+          "resposta": "Fogueira quente cercada de pedras com símbolos",
+          "criterios": [
+            [
+              "fogueira",
+              "fogo",
+              "restos de fogo",
+              "fogueirinha"
+            ]
+          ],
+          "complementares": [
+            "quente",
+            "pedras",
+            "simbolos"
+          ],
+          "contradicoes": [
+            "fria",
+            "apagada ha dias",
+            "gelada"
+          ],
+          "ilustracao": 14
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 15,
+      "parte": 3,
+      "nome_parte": "Trilha Guiada",
+      "titulo": "O guia desaparece",
+      "pergunta": "Quem encontrou o chapéu do guia depois que ele desapareceu?",
+      "versoes": {
+        "A": {
+          "texto": "Ao perceberem o desaparecimento do guia, Prudente encontrou o chapéu do guia entre as folhas da trilha.",
+          "resposta": "Prudente",
+          "criterios": [
+            [
+              "prudente",
+              "o prudente"
+            ]
+          ],
+          "complementares": [
+            "folhas",
+            "chapeu"
+          ],
+          "contradicoes": [
+            "nao foi prudente"
+          ],
+          "ilustracao": 15
+        },
+        "B": {
+          "texto": "O guia desapareceu após uma curva. Hilário encontrou o chapéu do guia caído perto de uma árvore.",
+          "resposta": "Hilário",
+          "criterios": [
+            [
+              "hilario",
+              "o hilario"
+            ]
+          ],
+          "complementares": [
+            "arvore",
+            "chapeu"
+          ],
+          "contradicoes": [
+            "nao foi hilario"
+          ],
+          "ilustracao": 15
+        },
+        "C": {
+          "texto": "Ao procurar pelo guia desaparecido, Clara encontrou o chapéu do guia preso nos galhos de um arbusto.",
+          "resposta": "Clara",
+          "criterios": [
+            [
+              "clara",
+              "a clara"
+            ]
+          ],
+          "complementares": [
+            "arbusto",
+            "chapeu"
+          ],
+          "contradicoes": [
+            "nao foi clara"
+          ],
+          "ilustracao": 15
+        }
+      },
+      "dificuldade": 1
+    },
+    {
+      "id": 16,
+      "parte": 4,
+      "nome_parte": "Noite na Trilha",
+      "titulo": "Movimentos noturnos",
+      "pergunta": "Por que Prudente permaneceu acordado enquanto os outros dormiam?",
+      "versoes": {
+        "A": {
+          "texto": "Prudente ficou acordado porque ouviu passos próximos à clareira.",
+          "resposta": "Ouviu passos próximos à clareira",
+          "criterios": [
+            [
+              "passos",
+              "passadas",
+              "pisadas",
+              "barulho de caminhada",
+              "ruido de passos"
+            ]
+          ],
+          "complementares": [
+            "clareira"
+          ],
+          "contradicoes": [
+            "silencio",
+            "nao ouviu passos"
+          ],
+          "ilustracao": 16
+        },
+        "B": {
+          "texto": "Prudente decidiu vigiar o grupo, preocupado com o desaparecimento do guia.",
+          "resposta": "Queria vigiar e proteger o grupo",
+          "criterios": [
+            [
+              "vigiar",
+              "vigilancia",
+              "proteger",
+              "protecao",
+              "guardar",
+              "cuidar",
+              "seguranca",
+              "sentinela",
+              "ficar de guarda",
+              "fazer guarda",
+              "ficar de vigia"
+            ]
+          ],
+          "complementares": [
+            "grupo",
+            "guia"
+          ],
+          "contradicoes": [
+            "abandonar o grupo"
+          ],
+          "ilustracao": 16
+        },
+        "C": {
+          "texto": "Prudente não conseguiu dormir depois de notar que um galho acima da clareira balançava repetidamente, apesar da ausência de vento.",
+          "resposta": "Um galho balançava sem vento",
+          "criterios": [
+            [
+              "galho",
+              "ramo"
+            ],
+            [
+              "balancava",
+              "balancando",
+              "balancou",
+              "mexia",
+              "movimento",
+              "mexendo",
+              "se movia",
+              "se movimentava",
+              "oscilava"
+            ]
+          ],
+          "complementares": [
+            "sem vento",
+            "clareira"
+          ],
+          "contradicoes": [
+            "vento forte",
+            "galho parado"
+          ],
+          "negacao_esperada": true,
+          "ilustracao": 16
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 17,
+      "parte": 4,
+      "nome_parte": "Noite na Trilha",
+      "titulo": "Acontecimento noturno",
+      "pergunta": "O que aconteceu entre as árvores durante a noite?",
+      "versoes": {
+        "A": {
+          "texto": "Hilário acordou e viu uma luz piscando entre as árvores.",
+          "resposta": "Uma luz piscou",
+          "criterios": [
+            [
+              "luz",
+              "clarao",
+              "claridade"
+            ],
+            [
+              "piscar",
+              "piscou",
+              "piscando",
+              "piscante",
+              "intermitente",
+              "acendia e apagava",
+              "acendeu e apagou",
+              "lampejava"
+            ]
+          ],
+          "complementares": [
+            "arvores"
+          ],
+          "contradicoes": [
+            "luz fixa",
+            "luz constante",
+            "sem piscar"
+          ],
+          "negacao_esperada": true,
+          "ilustracao": 17
+        },
+        "B": {
+          "texto": "Clara percebeu gotas de água escorrendo de um tronco oco, embora não tivesse chovido.",
+          "resposta": "Água escorria de um tronco oco",
+          "criterios": [
+            [
+              "agua",
+              "gotas",
+              "liquido"
+            ],
+            [
+              "tronco",
+              "arvore",
+              "oco",
+              "escorria",
+              "escorrendo",
+              "pingava",
+              "pingando",
+              "gotejava",
+              "gotejando"
+            ]
+          ],
+          "complementares": [
+            "oco",
+            "sem chuva",
+            "gotas"
+          ],
+          "contradicoes": [
+            "sangue",
+            "oleo",
+            "tronco seco",
+            "sem agua"
+          ],
+          "negacao_esperada": false,
+          "ilustracao": 17
+        },
+        "C": {
+          "texto": "Serena avistou uma silhueta atravessando rapidamente entre as árvores.",
+          "resposta": "Uma silhueta atravessou entre as árvores",
+          "criterios": [
+            [
+              "silhueta",
+              "vulto",
+              "figura",
+              "sombra",
+              "contorno de uma pessoa",
+              "silueta"
+            ]
+          ],
+          "complementares": [
+            "atravessou",
+            "rapidamente",
+            "arvores"
+          ],
+          "contradicoes": [
+            "imovel",
+            "parada",
+            "parado"
+          ],
+          "ilustracao": 17
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 18,
+      "parte": 4,
+      "nome_parte": "Noite na Trilha",
+      "titulo": "Percepções divergentes",
+      "pergunta": "Qual som Serena ouviu durante a noite na mata?",
+      "versoes": {
+        "A": {
+          "texto": "Serena ouviu um assobio curto vindo de trás de uma árvore.",
+          "resposta": "Um assobio curto",
+          "criterios": [
+            [
+              "assobio",
+              "assovio",
+              "assobiou",
+              "assoviou",
+              "sibilo",
+              "assobiando"
+            ]
+          ],
+          "complementares": [
+            "curto"
+          ],
+          "contradicoes": [
+            "longo",
+            "prolongado",
+            "assobio longo",
+            "assovio longo",
+            "assobio prolongado"
+          ],
+          "ilustracao": 18
+        },
+        "B": {
+          "texto": "Serena escutou uma risada baixa e chamou os amigos.",
+          "resposta": "Uma risada baixa",
+          "criterios": [
+            [
+              "risada",
+              "riso",
+              "gargalhada",
+              "riu",
+              "risinho"
+            ]
+          ],
+          "complementares": [
+            "baixa"
+          ],
+          "contradicoes": [
+            "alta",
+            "alto",
+            "estrondosa",
+            "risada alta",
+            "riso alto",
+            "gargalhada alta"
+          ],
+          "ilustracao": 18
+        },
+        "C": {
+          "texto": "Serena ouviu três batidas fortes no tronco de uma árvore.",
+          "resposta": "Três batidas fortes",
+          "criterios": [
+            [
+              "tres",
+              "3",
+              "trez"
+            ],
+            [
+              "batidas",
+              "batida",
+              "pancadas",
+              "toques",
+              "golpes",
+              "pancada",
+              "batucadas"
+            ]
+          ],
+          "complementares": [
+            "fortes",
+            "tronco",
+            "arvore"
+          ],
+          "contradicoes": [
+            "fracas",
+            "fraca",
+            "leves",
+            "leve",
+            "suaves",
+            "suave",
+            "duas",
+            "2",
+            "quatro",
+            "4",
+            "cinco",
+            "5",
+            "seis",
+            "6",
+            "sete",
+            "7",
+            "oito",
+            "8",
+            "nove",
+            "9",
+            "dez",
+            "10",
+            "uma batida",
+            "um golpe",
+            "nao fortes",
+            "nao eram fortes",
+            "nao foram fortes",
+            "sem forca",
+            "onze",
+            "doze",
+            "treze",
+            "catorze",
+            "quatorze",
+            "quinze",
+            "silenciosas",
+            "duas batidas",
+            "quatro batidas"
+          ],
+          "ilustracao": 18
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 19,
+      "parte": 4,
+      "nome_parte": "Noite na Trilha",
+      "titulo": "Sinais pela manhã",
+      "pergunta": "Qual vestígio Clara encontrou na mata ao amanhecer?",
+      "versoes": {
+        "A": {
+          "texto": "Clara encontrou pegadas recentes próximas ao local onde dormiram.",
+          "resposta": "Pegadas recentes",
+          "criterios": [
+            [
+              "pegadas",
+              "rastros",
+              "marcas de pe",
+              "marcas de pes",
+              "marcas de passos",
+              "sinais de passos"
+            ]
+          ],
+          "complementares": [
+            "recentes",
+            "frescas"
+          ],
+          "contradicoes": [
+            "antigas",
+            "velhas",
+            "pegadas antigas",
+            "rastros antigos"
+          ],
+          "ilustracao": 19
+        },
+        "B": {
+          "texto": "Clara encontrou cinzas de uma pequena fogueira ainda mornas.",
+          "resposta": "Cinzas mornas de uma fogueira",
+          "criterios": [
+            [
+              "cinzas",
+              "cinza",
+              "brasas",
+              "restos de cinza",
+              "carvao"
+            ]
+          ],
+          "complementares": [
+            "mornas",
+            "fogueira"
+          ],
+          "contradicoes": [
+            "frias",
+            "geladas",
+            "cinzas frias",
+            "fogueira fria"
+          ],
+          "ilustracao": 19
+        },
+        "C": {
+          "texto": "Clara encontrou um pedaço de tecido preso entre galhos quebrados.",
+          "resposta": "Um pedaço de tecido entre galhos quebrados",
+          "criterios": [
+            [
+              "tecido",
+              "pano",
+              "retalho",
+              "trapo",
+              "fragmento de roupa",
+              "pedaco de roupa"
+            ]
+          ],
+          "complementares": [
+            "galhos",
+            "quebrados"
+          ],
+          "contradicoes": [
+            "papel",
+            "plastico"
+          ],
+          "ilustracao": 19
+        }
+      },
+      "dificuldade": 1
+    },
+    {
+      "id": 20,
+      "parte": 4,
+      "nome_parte": "Noite na Trilha",
+      "titulo": "Caminho de volta",
+      "pergunta": "Qual indício permitiu que o grupo encontrasse o caminho de volta?",
+      "versoes": {
+        "A": {
+          "texto": "Prudente reconheceu marcas de botas deixadas na lama durante a caminhada.",
+          "resposta": "Marcas de botas na lama",
+          "criterios": [
+            [
+              "botas",
+              "bota",
+              "calcados",
+              "sapatos",
+              "botinas"
+            ],
+            [
+              "marcas",
+              "rastros",
+              "pegadas",
+              "lama"
+            ]
+          ],
+          "complementares": [
+            "caminhada"
+          ],
+          "contradicoes": [
+            "pegadas descalcas",
+            "marcas de maos"
+          ],
+          "ilustracao": 20
+        },
+        "B": {
+          "texto": "Serena encontrou uma trilha de folhas pisadas que levava de volta à estalagem.",
+          "resposta": "Trilha de folhas pisadas",
+          "criterios": [
+            [
+              "folhas"
+            ],
+            [
+              "pisadas",
+              "amassadas",
+              "esmagadas",
+              "trilha",
+              "calcadas",
+              "amassada"
+            ]
+          ],
+          "complementares": [
+            "estalagem"
+          ],
+          "contradicoes": [
+            "intactas",
+            "sem marcas"
+          ],
+          "ilustracao": 20
+        },
+        "C": {
+          "texto": "Clara avistou fitas de sinalização amarradas às árvores, indicando o caminho de retorno.",
+          "resposta": "Fitas de sinalização nas árvores",
+          "criterios": [
+            [
+              "fitas",
+              "fita",
+              "faixas",
+              "tiras",
+              "tira",
+              "lacos"
+            ]
+          ],
+          "complementares": [
+            "sinalizacao",
+            "arvores"
+          ],
+          "contradicoes": [
+            "no chao",
+            "sem sinalizacao"
+          ],
+          "ilustracao": 20
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 21,
+      "parte": 5,
+      "nome_parte": "Retorno à Estalagem",
+      "titulo": "Pergunta da recepcionista",
+      "pergunta": "O que a recepcionista perguntou aos viajantes antes que contassem o que aconteceu na mata?",
+      "versoes": {
+        "A": {
+          "texto": "A recepcionista perguntou por que o guia não havia voltado com eles.",
+          "resposta": "Por que o guia não voltou com eles",
+          "criterios": [
+            [
+              "guia"
+            ],
+            [
+              "nao voltou",
+              "nao retornou",
+              "nao veio",
+              "ausencia",
+              "sumiu",
+              "desapareceu",
+              "onde estava",
+              "cade",
+              "voltou sem",
+              "sem ele",
+              "onde estava o",
+              "por que ele nao voltou",
+              "porque ele nao voltou",
+              "por que estava ausente",
+              "por que nao voltou",
+              "porque nao retornou",
+              "nao havia voltado",
+              "nao tinha voltado",
+              "nao havia retornado"
+            ]
+          ],
+          "complementares": [
+            "viajantes"
+          ],
+          "contradicoes": [
+            "guia voltou junto",
+            "guia retornou junto",
+            "guia voltou normalmente"
+          ],
+          "negacao_esperada": true,
+          "ilustracao": 21
+        },
+        "B": {
+          "texto": "A recepcionista perguntou se tinham visto alguém estranho na mata.",
+          "resposta": "Se viram alguém estranho na mata",
+          "criterios": [
+            [
+              "alguem",
+              "pessoa",
+              "sujeito",
+              "individuo",
+              "figura"
+            ],
+            [
+              "estranho",
+              "estranha",
+              "desconhecido",
+              "desconhecida",
+              "suspeito",
+              "suspeita"
+            ]
+          ],
+          "complementares": [
+            "mata"
+          ],
+          "contradicoes": [
+            "pessoa conhecida",
+            "amigo conhecido"
+          ],
+          "ilustracao": 21
+        },
+        "C": {
+          "texto": "A recepcionista perguntou se haviam passado por algum caminho desconhecido.",
+          "resposta": "Se haviam passado por um caminho desconhecido",
+          "criterios": [
+            [
+              "caminho",
+              "trilha",
+              "rota",
+              "passagem"
+            ],
+            [
+              "desconhecido",
+              "desconhecida",
+              "diferente",
+              "novo",
+              "nova",
+              "estranho",
+              "estranha",
+              "nao conhecido",
+              "inexplorado",
+              "nao habitual"
+            ]
+          ],
+          "complementares": [
+            "viajantes"
+          ],
+          "contradicoes": [
+            "caminho conhecido",
+            "rota habitual",
+            "trilha oficial"
+          ],
+          "ilustracao": 21
+        }
+      },
+      "dificuldade": 3
+    },
+    {
+      "id": 22,
+      "parte": 5,
+      "nome_parte": "Retorno à Estalagem",
+      "titulo": "O guia reaparece",
+      "pergunta": "Qual explicação o guia apresentou para seu desaparecimento?",
+      "versoes": {
+        "A": {
+          "texto": "Algum tempo depois da chegada dos viajantes, o guia reapareceu na estalagem. Contou que desmaiou após respirar o ar estranho da mata e acordou perdido.",
+          "resposta": "Desmaiou após respirar o ar estranho da mata",
+          "criterios": [
+            [
+              "desmaiou",
+              "desmaio",
+              "inconsciente",
+              "apagou",
+              "perdeu os sentidos",
+              "perdeu a consciencia",
+              "teve um desmaio"
+            ]
+          ],
+          "complementares": [
+            "ar estranho",
+            "mata"
+          ],
+          "contradicoes": [
+            "nao desmaiou",
+            "ficou consciente"
+          ],
+          "ilustracao": 22
+        },
+        "B": {
+          "texto": "Algum tempo depois da chegada dos viajantes, o guia reapareceu na estalagem. O guia disse que seguiu uma mulher pedindo socorro e acabou se perdendo.",
+          "resposta": "Seguiu uma mulher pedindo socorro",
+          "criterios": [
+            [
+              "mulher",
+              "voz feminina",
+              "voz de mulher"
+            ],
+            [
+              "ajuda",
+              "socorro",
+              "auxilio",
+              "suplicava"
+            ]
+          ],
+          "complementares": [
+            "seguiu",
+            "perdeu"
+          ],
+          "contradicoes": [
+            "homem pedindo ajuda",
+            "homem pedindo socorro"
+          ],
+          "ilustracao": 22
+        },
+        "C": {
+          "texto": "Algum tempo depois da chegada dos viajantes, o guia reapareceu na estalagem. O guia afirmou que foi capturado por desconhecidos, mas conseguiu escapar.",
+          "resposta": "Foi capturado e escapou",
+          "criterios": [
+            [
+              "capturado",
+              "capturaram",
+              "preso",
+              "prenderam",
+              "sequestrado",
+              "sequestraram",
+              "raptado",
+              "sequestro",
+              "feito prisioneiro",
+              "levado a forca",
+              "detido"
+            ]
+          ],
+          "complementares": [
+            "escapou",
+            "fugiu",
+            "desconhecidos"
+          ],
+          "contradicoes": [
+            "nao foi capturado",
+            "nao foi sequestrado",
+            "nao escapou",
+            "nao fugiu",
+            "continuou preso"
+          ],
+          "ilustracao": 22
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 23,
+      "parte": 5,
+      "nome_parte": "Retorno à Estalagem",
+      "titulo": "Mapa encontrado",
+      "pergunta": "Onde o mapa foi encontrado?",
+      "versoes": {
+        "A": {
+          "texto": "Hilário encontrou o mapa dobrado debaixo do sofá da recepção.",
+          "resposta": "Debaixo do sofá da recepção",
+          "criterios": [
+            [
+              "sofa",
+              "diva"
+            ],
+            [
+              "debaixo",
+              "embaixo",
+              "sob",
+              "abaixo",
+              "por baixo",
+              "parte de baixo"
+            ]
+          ],
+          "complementares": [
+            "recepcao"
+          ],
+          "contradicoes": [
+            "em cima",
+            "sobre o sofa",
+            "dentro do sofa"
+          ],
+          "ilustracao": 23
+        },
+        "B": {
+          "texto": "Prudente encontrou o mapa escondido entre os livros de uma estante.",
+          "resposta": "Entre os livros de uma estante",
+          "criterios": [
+            [
+              "entre os livros",
+              "entre livros",
+              "entre os volumes",
+              "no meio dos livros",
+              "no meio de livros",
+              "escondido nos livros",
+              "entre os livros da estante",
+              "no meio dos livros da estante",
+              "entre os livros de uma estante",
+              "no meio dos livros de uma estante",
+              "no meio dos volumes",
+              "entre os livros na estante",
+              "entre livros na estante",
+              "dentro da estante",
+              "entre volumes"
+            ]
+          ],
+          "complementares": [
+            "estante",
+            "prateleira"
+          ],
+          "contradicoes": [
+            "em cima da estante",
+            "sobre a estante",
+            "debaixo da estante"
+          ],
+          "ilustracao": 23
+        },
+        "C": {
+          "texto": "Serena encontrou o mapa dentro de uma gaveta do balcão.",
+          "resposta": "Numa gaveta do balcão",
+          "criterios": [
+            [
+              "gaveta",
+              "gavetas",
+              "gaveta do balcao"
+            ]
+          ],
+          "complementares": [
+            "balcao",
+            "dentro"
+          ],
+          "contradicoes": [
+            "em cima da gaveta",
+            "sobre a gaveta",
+            "ao lado da gaveta",
+            "ao lado de uma gaveta",
+            "perto da gaveta",
+            "perto de uma gaveta",
+            "fora da gaveta",
+            "atrás da gaveta",
+            "embaixo da gaveta",
+            "ao redor da gaveta"
+          ],
+          "ilustracao": 23
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 24,
+      "parte": 5,
+      "nome_parte": "Retorno à Estalagem",
+      "titulo": "Vínculo revelado",
+      "pergunta": "Qual relação pessoal entre o guia e a recepcionista foi revelada?",
+      "versoes": {
+        "A": {
+          "texto": "O guia revelou que ele e a recepcionista eram irmãos.",
+          "resposta": "Irmãos",
+          "criterios": [
+            [
+              "irmaos",
+              "irma",
+              "irmao",
+              "irma e irmao",
+              "parentes irmaos"
+            ]
+          ],
+          "complementares": [
+            "parentesco"
+          ],
+          "contradicoes": [
+            "nao eram irmaos"
+          ],
+          "ilustracao": 24
+        },
+        "B": {
+          "texto": "A recepcionista contou que ela e o guia namoravam há alguns anos.",
+          "resposta": "Namorados",
+          "criterios": [
+            [
+              "namorados",
+              "namoravam",
+              "namoro",
+              "namorada",
+              "namorado",
+              "casal",
+              "relacionamento amoroso",
+              "par romantico"
+            ]
+          ],
+          "complementares": [
+            "ha anos"
+          ],
+          "contradicoes": [
+            "casal de amigos",
+            "so amigos",
+            "apenas amigos",
+            "nao namoravam"
+          ],
+          "ilustracao": 24
+        },
+        "C": {
+          "texto": "O guia explicou que os dois eram amigos desde a infância.",
+          "resposta": "Amigos desde a infância",
+          "criterios": [
+            [
+              "amigos",
+              "amizade",
+              "amizade antiga",
+              "amigos de crianca"
+            ]
+          ],
+          "complementares": [
+            "infancia",
+            "criancas",
+            "pequenos"
+          ],
+          "contradicoes": [
+            "recem conhecidos",
+            "amigos recentes",
+            "se conheceram ontem",
+            "se conheceram na estalagem"
+          ],
+          "ilustracao": 24
+        }
+      },
+      "dificuldade": 1
+    },
+    {
+      "id": 25,
+      "parte": 5,
+      "nome_parte": "Retorno à Estalagem",
+      "titulo": "Rota não oficial",
+      "pergunta": "Qual detalhe do mapa revelou a existência de uma rota não oficial?",
+      "versoes": {
+        "A": {
+          "texto": "Serena percebeu um caminho pontilhado a lápis que não aparecia na legenda.",
+          "resposta": "Caminho pontilhado fora da legenda",
+          "criterios": [
+            [
+              "pontilhado",
+              "pontilhada",
+              "pontinhos",
+              "tracejado",
+              "tracejada",
+              "linha de pontos",
+              "linha tracejada",
+              "linha pontilhada"
+            ]
+          ],
+          "complementares": [
+            "fora da legenda",
+            "lapis"
+          ],
+          "contradicoes": [
+            "linha continua",
+            "na legenda oficial"
+          ],
+          "ilustracao": 25
+        },
+        "B": {
+          "texto": "Prudente encontrou um desvio desenhado à mão no verso do mapa.",
+          "resposta": "Desvio desenhado no verso",
+          "criterios": [
+            [
+              "verso",
+              "atras",
+              "parte de tras",
+              "outro lado",
+              "dorso",
+              "lado posterior"
+            ],
+            [
+              "desvio",
+              "caminho",
+              "rota",
+              "desenho"
+            ]
+          ],
+          "complementares": [
+            "a mao"
+          ],
+          "contradicoes": [
+            "na frente",
+            "na parte da frente"
+          ],
+          "ilustracao": 25
+        },
+        "C": {
+          "texto": "Clara descobriu um caminho escondido debaixo de uma etiqueta colada no mapa.",
+          "resposta": "Caminho oculto sob uma etiqueta",
+          "criterios": [
+            [
+              "etiqueta",
+              "adesivo",
+              "rotulo",
+              "papel colado",
+              "selo colado"
+            ],
+            [
+              "debaixo",
+              "embaixo",
+              "sob",
+              "oculto",
+              "oculta",
+              "escondido",
+              "escondida",
+              "coberto",
+              "coberta"
+            ]
+          ],
+          "complementares": [
+            "mapa",
+            "caminho"
+          ],
+          "contradicoes": [
+            "em cima da etiqueta",
+            "sobre a etiqueta"
+          ],
+          "ilustracao": 25
+        }
+      },
+      "dificuldade": 3
+    },
+    {
+      "id": 26,
+      "parte": 6,
+      "nome_parte": "Organizando a Saída",
+      "titulo": "Explicações sobre a rota",
+      "pergunta": "Qual justificativa foi apresentada para a existência da rota não oficial?",
+      "versoes": {
+        "A": {
+          "texto": "O guia explicou que a rota era usada para transportar mantimentos até um antigo posto de apoio.",
+          "resposta": "Transporte de mantimentos para posto de apoio",
+          "criterios": [
+            [
+              "mantimentos",
+              "suprimentos",
+              "provisoes",
+              "alimentos",
+              "comida",
+              "abastecimento",
+              "comestiveis",
+              "generos alimenticios"
+            ]
+          ],
+          "complementares": [
+            "posto de apoio",
+            "transporte"
+          ],
+          "contradicoes": [
+            "transporte de turistas"
+          ],
+          "ilustracao": 26
+        },
+        "B": {
+          "texto": "A recepcionista contou que moradores utilizavam aquele caminho durante as cheias do riacho.",
+          "resposta": "Passagem dos moradores durante cheias do riacho",
+          "criterios": [
+            [
+              "moradores",
+              "habitantes",
+              "locais"
+            ],
+            [
+              "cheia",
+              "cheias",
+              "enchente",
+              "enchentes",
+              "inundacao",
+              "alagamento",
+              "riacho cheio",
+              "transbordamento",
+              "riacho transbordava"
+            ]
+          ],
+          "complementares": [
+            "riacho"
+          ],
+          "contradicoes": [
+            "seca",
+            "estiagem"
+          ],
+          "ilustracao": 26
+        },
+        "C": {
+          "texto": "O guia afirmou que a rota havia sido aberta para pesquisadores explorarem antigas ruínas na mata.",
+          "resposta": "Acesso de pesquisadores a ruínas",
+          "criterios": [
+            [
+              "pesquisadores",
+              "cientistas",
+              "arqueologos",
+              "equipe de pesquisa",
+              "estudiosos"
+            ],
+            [
+              "ruinas",
+              "sitio arqueologico"
+            ]
+          ],
+          "complementares": [
+            "mata"
+          ],
+          "contradicoes": [
+            "turistas",
+            "turismo"
+          ],
+          "ilustracao": 26
+        }
+      },
+      "dificuldade": 3
+    },
+    {
+      "id": 27,
+      "parte": 6,
+      "nome_parte": "Organizando a Saída",
+      "titulo": "Algo não combina",
+      "pergunta": "Qual detalhe do mapa levantou dúvidas sobre a rota não oficial?",
+      "versoes": {
+        "A": {
+          "texto": "Prudente percebeu que a rota terminava no meio da mata, sem indicar nenhum destino.",
+          "resposta": "Rota sem destino indicado",
+          "criterios": [
+            [
+              "sem destino",
+              "destino nao indicado",
+              "destino desconhecido",
+              "nao tinha destino",
+              "sem indicar destino",
+              "sem indicar nenhum destino",
+              "nao indicava destino",
+              "nao mostrava destino",
+              "nao levava a lugar nenhum",
+              "nao tinha fim",
+              "sem fim",
+              "sem chegada",
+              "terminava no meio da mata",
+              "terminava na mata",
+              "acabava no meio da mata",
+              "sem ponto de chegada",
+              "sem indicar onde chegava",
+              "sem destino marcado"
+            ]
+          ],
+          "complementares": [
+            "rota"
+          ],
+          "contradicoes": [
+            "destino indicado claramente",
+            "levava a estalagem"
+          ],
+          "negacao_esperada": true,
+          "ilustracao": 27
+        },
+        "B": {
+          "texto": "Serena notou que o caminho atravessava uma área marcada no mapa como proibida.",
+          "resposta": "Caminho atravessava uma área proibida",
+          "criterios": [
+            [
+              "proibida",
+              "proibido",
+              "interditada",
+              "interditado",
+              "restrita",
+              "restrito",
+              "vetada",
+              "vetado",
+              "nao permitida",
+              "acesso vedado"
+            ]
+          ],
+          "complementares": [
+            "area",
+            "rota"
+          ],
+          "contradicoes": [
+            "permitida",
+            "permitido",
+            "liberada",
+            "liberado"
+          ],
+          "ilustracao": 27
+        },
+        "C": {
+          "texto": "Clara encontrou uma anotação sobre a rota que parecia ter sido apagada propositalmente.",
+          "resposta": "Anotação aparentemente apagada",
+          "criterios": [
+            [
+              "anotacao",
+              "nota",
+              "escrita",
+              "marca"
+            ],
+            [
+              "apagada",
+              "apagado",
+              "rasurada",
+              "rasurado",
+              "rasura",
+              "riscada",
+              "riscado",
+              "eliminada"
+            ]
+          ],
+          "complementares": [
+            "propositalmente"
+          ],
+          "contradicoes": [
+            "intacta",
+            "legivel",
+            "sem rasura"
+          ],
+          "ilustracao": 27
+        }
+      },
+      "dificuldade": 3
+    },
+    {
+      "id": 28,
+      "parte": 6,
+      "nome_parte": "Organizando a Saída",
+      "titulo": "Vestígios na estalagem",
+      "pergunta": "Qual objeto incomum foi encontrado na estalagem antes da partida?",
+      "versoes": {
+        "A": {
+          "texto": "Hilário encontrou uma bota coberta de barro fresco atrás do balcão.",
+          "resposta": "Uma bota com barro fresco",
+          "criterios": [
+            [
+              "bota",
+              "botas",
+              "sapato",
+              "botina"
+            ],
+            [
+              "barro",
+              "lama"
+            ]
+          ],
+          "complementares": [
+            "fresco",
+            "balcao"
+          ],
+          "contradicoes": [
+            "limpa",
+            "limpas",
+            "barro seco",
+            "sem barro"
+          ],
+          "ilustracao": 28
+        },
+        "B": {
+          "texto": "Clara encontrou uma pequena bolsa com desenhos tribais escondida debaixo de uma cadeira.",
+          "resposta": "Uma bolsa com desenhos tribais",
+          "criterios": [
+            [
+              "bolsa",
+              "sacola",
+              "mochila",
+              "bolsinha"
+            ],
+            [
+              "tribais",
+              "tribal",
+              "simbolos",
+              "desenhos"
+            ]
+          ],
+          "complementares": [
+            "cadeira"
+          ],
+          "contradicoes": [
+            "lisa",
+            "sem desenhos",
+            "sem simbolos"
+          ],
+          "ilustracao": 28
+        },
+        "C": {
+          "texto": "Serena encontrou uma lanterna ainda acesa dentro de um armário entreaberto.",
+          "resposta": "Uma lanterna ainda acesa",
+          "criterios": [
+            [
+              "lanterna"
+            ],
+            [
+              "acesa",
+              "ligada",
+              "iluminada",
+              "em funcionamento",
+              "emitindo luz"
+            ]
+          ],
+          "complementares": [
+            "armario"
+          ],
+          "contradicoes": [
+            "apagada",
+            "desligada"
+          ],
+          "ilustracao": 28
+        }
+      },
+      "dificuldade": 2
+    },
+    {
+      "id": 29,
+      "parte": 6,
+      "nome_parte": "Organizando a Saída",
+      "titulo": "Última informação",
+      "pergunta": "Qual foi a última informação revelada pelo guia ou pela recepcionista sobre a Mata da Tribo?",
+      "versoes": {
+        "A": {
+          "texto": "O guia contou que moradores ainda ouviam vozes misteriosas próximas à antiga trilha.",
+          "resposta": "Moradores ouviam vozes perto da trilha",
+          "criterios": [
+            [
+              "vozes",
+              "voz",
+              "falas",
+              "vozes humanas"
+            ]
+          ],
+          "complementares": [
+            "moradores",
+            "trilha",
+            "misteriosas"
+          ],
+          "contradicoes": [
+            "silencio",
+            "nao ouviam vozes"
+          ],
+          "ilustracao": 29
+        },
+        "B": {
+          "texto": "A recepcionista revelou que algumas pessoas entraram na mata e nunca mais foram vistas.",
+          "resposta": "Pessoas desapareceram na mata",
+          "criterios": [
+            [
+              "pessoas",
+              "gente",
+              "alguem",
+              "viajantes"
+            ],
+            [
+              "desapareceram",
+              "desaparecidas",
+              "sumiram",
+              "sumico",
+              "desaparecimento",
+              "nunca mais foram vistas",
+              "nunca mais foram vistos",
+              "nunca mais voltaram",
+              "nao voltaram",
+              "nao retornaram",
+              "nunca mais retornaram",
+              "nunca mais apareceram",
+              "sumiram sem deixar rastros",
+              "nao foram mais vistas"
+            ]
+          ],
+          "complementares": [
+            "mata"
+          ],
+          "contradicoes": [
+            "voltaram em seguranca",
+            "todos voltaram"
+          ],
+          "negacao_esperada": true,
+          "ilustracao": 29
+        },
+        "C": {
+          "texto": "O guia afirmou que ninguém sabia quem continuava fazendo os símbolos tribais nas árvores.",
+          "resposta": "Autoria dos símbolos tribais era desconhecida",
+          "criterios": [
+            [
+              "simbolos",
+              "marcas",
+              "desenhos"
+            ],
+            [
+              "desconhecida",
+              "desconhecido",
+              "nao sabia",
+              "nao sabiam",
+              "nao se sabia",
+              "nao sabem",
+              "ninguem sabia",
+              "ninguem sabe",
+              "autor desconhecido",
+              "sem autoria",
+              "ninguem conhecia",
+              "nao conheciam",
+              "nao identificaram"
+            ]
+          ],
+          "complementares": [
+            "tribais",
+            "arvores"
+          ],
+          "contradicoes": [
+            "autor conhecido",
+            "autoria conhecida",
+            "guia fazia"
+          ],
+          "negacao_esperada": true,
+          "ilustracao": 29
+        }
+      },
+      "dificuldade": 3
+    },
+    {
+      "id": 30,
+      "parte": 6,
+      "nome_parte": "Organizando a Saída",
+      "titulo": "Partida ambígua",
+      "pergunta": "O que um dos viajantes avistou na direção da rota não oficial quando o grupo estava partindo?",
+      "versoes": {
+        "A": {
+          "texto": "Prudente avistou uma pessoa parada entre as árvores, observando a partida do grupo.",
+          "resposta": "Uma pessoa observando entre as árvores",
+          "criterios": [
+            [
+              "pessoa",
+              "alguem",
+              "figura",
+              "vulto",
+              "homem",
+              "mulher"
+            ],
+            [
+              "observando",
+              "olhando",
+              "espiando",
+              "vigiando",
+              "observava",
+              "olhava",
+              "parada",
+              "parado",
+              "encarando",
+              "fitando",
+              "assistindo"
+            ]
+          ],
+          "complementares": [
+            "arvores"
+          ],
+          "contradicoes": [
+            "correndo",
+            "fugindo"
+          ],
+          "ilustracao": 30
+        },
+        "B": {
+          "texto": "Serena avistou uma pequena pilha de pedras cuidadosamente equilibradas perto da entrada da rota não oficial.",
+          "resposta": "Uma pilha de pedras equilibradas",
+          "criterios": [
+            [
+              "pedras",
+              "pedrinhas",
+              "rochas"
+            ],
+            [
+              "pilha",
+              "empilhadas",
+              "empilhamento",
+              "equilibradas",
+              "amontoadas",
+              "montinho",
+              "torre",
+              "monte",
+              "umas sobre as outras",
+              "uma sobre a outra",
+              "uma em cima da outra",
+              "umas em cima das outras",
+              "sobrepostas",
+              "empilhadas umas sobre as outras",
+              "em cima umas das outras"
+            ]
+          ],
+          "complementares": [
+            "pequena",
+            "entrada da rota",
+            "cuidadosamente"
+          ],
+          "contradicoes": [
+            "espalhadas",
+            "soltas",
+            "pedras derrubadas"
+          ],
+          "ilustracao": 30
+        },
+        "C": {
+          "texto": "Hilário viu um pequeno espelho pendurado num galho, refletindo a luz do sol na direção da rota não oficial.",
+          "resposta": "Um espelho pendurado num galho",
+          "criterios": [
+            [
+              "espelho",
+              "espelhinho"
+            ]
+          ],
+          "complementares": [
+            "pendurado",
+            "galho",
+            "reflexo",
+            "sol"
+          ],
+          "contradicoes": [
+            "quebrado",
+            "sem reflexo"
+          ],
+          "ilustracao": 30
+        }
+      },
+      "dificuldade": 2
+    }
+  ]
+}
