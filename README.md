@@ -1,5 +1,7 @@
 # Memórias da Viagem | Travel Memories
 
+[![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://lucasxmelo.itch.io/memorias-da-viagem)
+
 A narrative memory game that combines mystery, storytelling, and competitive gameplay against an AI opponent.
 
 Developed with **Phaser and TypeScript** for desktop and mobile web browsers.
